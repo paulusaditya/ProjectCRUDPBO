@@ -1,0 +1,42 @@
+C:\Users\Aditya\Documents\PBO\PROJECT CRUD\PROJECT CRUD\obj\Debug\PROJECT CRUD.csproj.AssemblyReference.cache
+C:\Users\Aditya\Documents\PBO\PROJECT CRUD\PROJECT CRUD\obj\Debug\PROJECT CRUD.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aditya\Documents\PBO\PROJECT CRUD\PROJECT CRUD\obj\Debug\PROJECT_CRUD.Form1.resources
+C:\Users\Aditya\Documents\PBO\PROJECT CRUD\PROJECT CRUD\obj\Debug\PROJECT_CRUD.Properties.Resources.resources
+C:\Users\Aditya\Documents\PBO\PROJECT CRUD\PROJECT CRUD\obj\Debug\PROJECT CRUD.csproj.GenerateResource.cache
+C:\Users\Aditya\Documents\PBO\PROJECT CRUD\PROJECT CRUD\obj\Debug\PROJECT CRUD.csproj.CoreCompileInputs.cache
+C:\Users\Aditya\Documents\PBO\PROJECT CRUD\PROJECT CRUD\bin\Debug\PROJECT CRUD.exe.config
+C:\Users\Aditya\Documents\PBO\PROJECT CRUD\PROJECT CRUD\bin\Debug\PROJECT CRUD.exe
+C:\Users\Aditya\Documents\PBO\PROJECT CRUD\PROJECT CRUD\bin\Debug\PROJECT CRUD.pdb
+C:\Users\Aditya\Documents\PBO\PROJECT CRUD\PROJECT CRUD\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Aditya\Documents\PBO\PROJECT CRUD\PROJECT CRUD\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Aditya\Documents\PBO\PROJECT CRUD\PROJECT CRUD\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Aditya\Documents\PBO\PROJECT CRUD\PROJECT CRUD\bin\Debug\Npgsql.dll
+C:\Users\Aditya\Documents\PBO\PROJECT CRUD\PROJECT CRUD\bin\Debug\System.Buffers.dll
+C:\Users\Aditya\Documents\PBO\PROJECT CRUD\PROJECT CRUD\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Aditya\Documents\PBO\PROJECT CRUD\PROJECT CRUD\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Aditya\Documents\PBO\PROJECT CRUD\PROJECT CRUD\bin\Debug\System.Memory.dll
+C:\Users\Aditya\Documents\PBO\PROJECT CRUD\PROJECT CRUD\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Aditya\Documents\PBO\PROJECT CRUD\PROJECT CRUD\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Aditya\Documents\PBO\PROJECT CRUD\PROJECT CRUD\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Aditya\Documents\PBO\PROJECT CRUD\PROJECT CRUD\bin\Debug\System.Text.Json.dll
+C:\Users\Aditya\Documents\PBO\PROJECT CRUD\PROJECT CRUD\bin\Debug\System.Threading.Channels.dll
+C:\Users\Aditya\Documents\PBO\PROJECT CRUD\PROJECT CRUD\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Aditya\Documents\PBO\PROJECT CRUD\PROJECT CRUD\bin\Debug\System.ValueTuple.dll
+C:\Users\Aditya\Documents\PBO\PROJECT CRUD\PROJECT CRUD\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Aditya\Documents\PBO\PROJECT CRUD\PROJECT CRUD\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Aditya\Documents\PBO\PROJECT CRUD\PROJECT CRUD\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Aditya\Documents\PBO\PROJECT CRUD\PROJECT CRUD\bin\Debug\Npgsql.xml
+C:\Users\Aditya\Documents\PBO\PROJECT CRUD\PROJECT CRUD\bin\Debug\System.Buffers.xml
+C:\Users\Aditya\Documents\PBO\PROJECT CRUD\PROJECT CRUD\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Aditya\Documents\PBO\PROJECT CRUD\PROJECT CRUD\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Aditya\Documents\PBO\PROJECT CRUD\PROJECT CRUD\bin\Debug\System.Memory.xml
+C:\Users\Aditya\Documents\PBO\PROJECT CRUD\PROJECT CRUD\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Aditya\Documents\PBO\PROJECT CRUD\PROJECT CRUD\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Aditya\Documents\PBO\PROJECT CRUD\PROJECT CRUD\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Aditya\Documents\PBO\PROJECT CRUD\PROJECT CRUD\bin\Debug\System.Text.Json.xml
+C:\Users\Aditya\Documents\PBO\PROJECT CRUD\PROJECT CRUD\bin\Debug\System.Threading.Channels.xml
+C:\Users\Aditya\Documents\PBO\PROJECT CRUD\PROJECT CRUD\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Aditya\Documents\PBO\PROJECT CRUD\PROJECT CRUD\bin\Debug\System.ValueTuple.xml
+C:\Users\Aditya\Documents\PBO\PROJECT CRUD\PROJECT CRUD\obj\Debug\PROJECT CRUD.csproj.CopyComplete
+C:\Users\Aditya\Documents\PBO\PROJECT CRUD\PROJECT CRUD\obj\Debug\PROJECT CRUD.exe
+C:\Users\Aditya\Documents\PBO\PROJECT CRUD\PROJECT CRUD\obj\Debug\PROJECT CRUD.pdb
